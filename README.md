@@ -1,6 +1,8 @@
 ## About
 Utilize the Github REST API to list repositories of any user or organization; sort and filter via the supported options.
 
+<img src="https://github.com/nicfontaine/ar-github-api/blob/main/public/screen-01.png" width="400">
+
 ## Architecture
 Typescript, React, Material UI. MUI to provide basic layout, styling, and support future theming.   
 
